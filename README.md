@@ -1,7 +1,7 @@
 
 # Page deployed link:
 
-Project was deployed using github pages: https://gomez-jose.github.io/
+Project was deployed using github pages: https://gomez-jose.github.io/tpo-aplicaciones-interactivas/
 
 # Getting Started with Create React App
 
