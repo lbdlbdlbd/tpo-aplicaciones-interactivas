@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tpo-aplicaciones-interactivas/static/css/main.81b0639e.css",
+    "main.js": "/tpo-aplicaciones-interactivas/static/js/main.d14f504f.js",
+    "static/media/salad.png": "/tpo-aplicaciones-interactivas/static/media/salad.5982409fe17e75ecc240.png",
+    "static/media/flan.png": "/tpo-aplicaciones-interactivas/static/media/flan.6261dada8d7a5106029a.png",
+    "static/media/tomatoSoup.jpg": "/tpo-aplicaciones-interactivas/static/media/tomatoSoup.488c826e7f3de60c6b41.jpg",
+    "static/media/greekSalad.jpg": "/tpo-aplicaciones-interactivas/static/media/greekSalad.603889b206f825b7ee6a.jpg",
+    "static/media/bglogin.jpg": "/tpo-aplicaciones-interactivas/static/media/bglogin.a85ee020e3ea49997469.jpg",
+    "static/media/sidebarimg2.jpg": "/tpo-aplicaciones-interactivas/static/media/sidebarimg2.efd7da4ffe14bd14ce81.jpg",
+    "static/media/spicyTofuBurger.jpg": "/tpo-aplicaciones-interactivas/static/media/spicyTofuBurger.16add73344479a436bf6.jpg",
+    "static/media/chocolateCake.jpg": "/tpo-aplicaciones-interactivas/static/media/chocolateCake.df51994c5e62be7d7f5e.jpg",
+    "static/media/avatar.jpg": "/tpo-aplicaciones-interactivas/static/media/avatar.542b0a476aa2f4e20f3c.jpg",
+    "static/media/logo.jpg": "/tpo-aplicaciones-interactivas/static/media/logo.65c1f5086da638526c47.jpg",
+    "static/media/bgregister.jpg": "/tpo-aplicaciones-interactivas/static/media/bgregister.ba101d5d9b621a2e4775.jpg",
+    "index.html": "/tpo-aplicaciones-interactivas/index.html",
+    "main.81b0639e.css.map": "/tpo-aplicaciones-interactivas/static/css/main.81b0639e.css.map",
+    "main.d14f504f.js.map": "/tpo-aplicaciones-interactivas/static/js/main.d14f504f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81b0639e.css",
+    "static/js/main.d14f504f.js"
+  ]
+}
