@@ -1,3 +1,8 @@
+
+# Page deployed link:
+
+Project was deployed using github pages: https://gomez-jose.github.io/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
