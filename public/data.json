@@ -1,34 +1,38 @@
 [
     {
-    "id": 1,
-    "title": "Ensalada Griega",
-    "category": ["ensalada","veggie","almuerzo","cena"],
-    "dificulty": 2,
-    "desc": "asd",
-    "ingr": ["tomates","pepinos", "cebolla morada", "pimiento rojo", "pimiento verde", "aceitunas kalamata", "queso feta", "oregano fresco", "aceite de oliva", "vinagre de vino blanco", "sal", "pimienta"]
+        "id": 1,
+        "title": "Ensalada Griega",
+        "category": ["ensalada","veggie","almuerzo","cena"],
+        "dificulty": 2,
+        "desc": "asd",
+        "img" : "https://pinchofyum.com/wp-content/uploads/Greek-Salad-1-2.jpg",
+        "ingr": ["tomates","pepinos", "cebolla morada", "pimiento rojo", "pimiento verde", "aceitunas kalamata", "queso feta", "oregano fresco", "aceite de oliva", "vinagre de vino blanco", "sal", "pimienta"]
     },
     {
-        "id": 2,
-        "title": "Sopa de tomate",
-        "category": ["sopa","veggie","almuerzo","desayuno"],
-        "dificulty": 1.5,
-        "desc": "asd",
-        "ingr": ["tomate","caldo de vegetales","caldo de pollo", "ajo", "albahaca", "pan", "sal", "pimienta"]
+            "id": 2,
+            "title": "Sopa de tomate",
+            "category": ["sopa","veggie","almuerzo","desayuno"],
+            "dificulty": 1.5,
+            "desc": "asd",
+            "img" : "https://pinchofyum.com/wp-content/uploads/Bread-and-Tomato-Soup-3-1365x2048.jpg",
+            "ingr": ["tomate","caldo de vegetales","caldo de pollo", "ajo", "albahaca", "pan", "sal", "pimienta"]
     },
     {
-        "id": 3,
-        "title": "Torta de chocolate",
-        "category": ["postre","veggie","popular"],
-        "dificulty": 3.5,
-        "desc": "asd",
-        "ingr": ["harina 0000","azucar","cacao", "sal", "cafe", "manteca"]
+            "id": 3,
+            "title": "Torta de chocolate",
+            "category": ["postre","veggie","popular"],
+            "dificulty": 3.5,
+            "desc": "asd",
+            "img" : "https://pinchofyum.com/cdn-cgi/image/width=680,height=99999,fit=scale-down/wp-content/uploads/Turtle-Cake-1-2.jpg",
+            "ingr": ["harina 0000","azucar","cacao", "sal", "cafe", "manteca"]
     },
     {
-        "id": 4,
-        "title": "Hamburguesa picante de tofu",
-        "category": ["almuerzo","veggie","cena","popular"],
-        "dificulty": 3,
-        "desc": "asd",
-        "ingr": ["harina 000","manteca","sal", "pimienta", "tofu", "aji","menta","albahaca","cilantro","chalote"]
+            "id": 4,
+            "title": "Hamburguesa picante de tofu",
+            "category": ["almuerzo","veggie","cena","popular"],
+            "dificulty": 3,
+            "desc": "asd",
+            "img": "https://pinchofyum.com/wp-content/uploads/Tofu-Burgers-1-2.jpg",
+            "ingr": ["harina 000","manteca","sal", "pimienta", "tofu", "aji","menta","albahaca","cilantro","chalote"]
     }
 ]
