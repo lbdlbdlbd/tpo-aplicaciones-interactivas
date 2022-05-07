@@ -1,0 +1,17 @@
+.headerSec{
+    background-color:olive;
+    text-align:center;
+    color:white;
+    padding: 25px 50px;
+    max-height:70vh;
+}
+
+.headerTitle{
+    font-family: 'Lora', serif;
+    font-size: 3.5rem;
+}
+
+.headerDesc{
+    font-family: 'Varela Round' sans-serif;
+    font-size: 1.25rem;
+}

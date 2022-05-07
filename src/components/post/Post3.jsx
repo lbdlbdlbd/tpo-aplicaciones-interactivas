@@ -8,13 +8,13 @@ export default function Post3() {
         <img 
             className="postImg" 
             src={chocolateCake} 
-            alt="simple greek salad"/>
+            alt="simple chocolate cake"/>
         <div className="container">
             <div className="postInfo">
                 <span className="postTitle">Torta de chocolate</span>
                 <div className="postCats">
                     <span className="postCat">Postre</span>
-                    <span className="postCat">Dulce</span>
+                    <span className="postCat">Vegetariano</span>
                 </div>
                 <hr/>
                     <span className="postDate">11/4/2022</span>
@@ -39,17 +39,12 @@ export default function Post3() {
             <h3 className="continueReading">Continuar leyendo</h3>
 
             <ul className="postIngr">
-                <li>tomates</li>
-                <li>pepinos</li>
-                <li>cebolla morada</li>
-                <li>pimiento (rojo o verde)</li>
-                <li>aceitunas Kalamata</li>
-                <li>queso feta</li>
-                <li>orégano fresco o seco</li>
-                <li>aceite de oliva virgen extra</li>
-                <li>vinagre de vino blanco</li>
+                <li>harina 0000</li>
+                <li>azucar</li>
+                <li>cacao</li>
                 <li>sal</li>
-                <li>pimienta recién molida</li>
+                <li>cafe</li>
+                <li>manteca</li>
             </ul>
         </div>
         

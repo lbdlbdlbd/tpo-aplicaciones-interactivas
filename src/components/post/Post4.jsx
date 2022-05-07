@@ -8,7 +8,7 @@ export default function Post4() {
         <img 
             className="postImg" 
             src={spicyTofuBurger} 
-            alt="simple greek salad"/>
+            alt="spicy tofu burger"/>
         <div className="container">
             <div className="postInfo">
                 <span className="postTitle">Hamburguesa picante de tofu</span>

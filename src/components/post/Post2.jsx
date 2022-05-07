@@ -8,7 +8,7 @@ export default function Post2() {
         <img 
             className="postImg" 
             src={tomatoSoup} 
-            alt="simple greek salad"/>
+            alt="simple tomato soup"/>
         <div className="container">
             <div className="postInfo">
                 <span className="postTitle">Sopa de tomate</span>
@@ -39,11 +39,14 @@ export default function Post2() {
             <h3 className="continueReading">Continuar leyendo</h3>
 
             <ul className="postIngr">
+                <li>Tomate</li>
                 <li>Caldo de vegetales/pollo</li>
                 <li>Aceite de oliva extra virgen</li>
                 <li>Ajo</li>
                 <li>Albahaca</li>
                 <li>Pan</li>
+                <li>Sal</li>
+                <li>Pimienta</li>
             </ul>
         </div>
     </div>

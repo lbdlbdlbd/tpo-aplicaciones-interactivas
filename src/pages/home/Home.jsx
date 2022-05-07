@@ -4,7 +4,6 @@ import Sidebar from "../../components/sidebar/Sidebar"
 import Posts from "../../components/posts/Posts"
 import { motion } from "framer-motion"
 import MailList from "../../components/mailList/MailList"
-import Footer from "../../components/footer/Footer"
 
 export default function Home() {
   return (
@@ -19,7 +18,6 @@ export default function Home() {
         <Sidebar/>
       </div>
       <MailList/>
-      <Footer/>
     </motion.div>
   )
 }

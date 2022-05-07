@@ -5,6 +5,7 @@ import Settings from "../pages/settings/Settings";
 import Home from "../pages/home/Home"
 import Single from "../pages/single/Single";
 import Write from "../pages/write/Write";
+import Buscar from "../pages/buscar/Buscar";
 import { Routes,Route, useLocation} from "react-router-dom";
 import { AnimatePresence } from 'framer-motion';
 
@@ -25,6 +26,7 @@ function AnimatedRoutes() {
                 <Route path="/login" element={user ? <Home/> : <Login/>}></Route>
                 <Route path="/settings" element={user ? <Settings/> : <Register/>}></Route>
                 <Route path="/write" element={user ? <Write/> : <Register/>}></Route>
+                <Route path="/buscar" element={<Buscar/>}/>
                 <Route path="/post/:postId" element={<Single/>}></Route>
         </Routes>
       </AnimatePresence>
