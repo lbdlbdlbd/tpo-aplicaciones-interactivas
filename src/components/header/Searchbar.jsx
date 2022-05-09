@@ -13,7 +13,7 @@ function Searchbar() {
         navigate("/searched/"+input);
     }
   return (
-    <FormStyle onSubmite={submitHandler}>
+    <FormStyle onSubmit={submitHandler}>
         <div>
             <FaSearch/>
             <input type="text" value= {input} onChange={(e)=> setInput(e.target.value)}/>
