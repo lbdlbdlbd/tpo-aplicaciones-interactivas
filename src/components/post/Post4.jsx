@@ -1,6 +1,7 @@
 import "./post.css"
 import spicyTofuBurger from './spicyTofuBurger.jpg'
 import { ImStarFull,ImStarEmpty } from "react-icons/im";
+import { Link } from 'react-router-dom';
 
 export default function Post4() {
   return (
@@ -36,7 +37,7 @@ export default function Post4() {
                 Praesentium quo et maxime?
             </p>
 
-            <h3 className="continueReading">Continuar leyendo</h3>
+            <Link to={"/recetas/Hamburguesa picante de tofu"}><h3 className="continueReading">Continuar leyendo</h3></Link>
 
             <ul className="postIngr">
                 <li>pasta de tomate</li>

@@ -1,6 +1,7 @@
 import "./post.css"
 import greekSalad from './greekSalad.jpg'
 import { ImStarFull,ImStarEmpty } from "react-icons/im";
+import { Link } from 'react-router-dom';
 
 export default function Post1() {
   return (
@@ -36,7 +37,7 @@ export default function Post1() {
                 Praesentium quo et maxime?
             </p>
 
-            <h3 className="continueReading">Continuar leyendo</h3>
+            <Link to={"/recetas/Ensalada Griega"}><h3 className="continueReading">Continuar leyendo</h3></Link>
 
             <ul className="postIngr">
                 <li>tomates</li>

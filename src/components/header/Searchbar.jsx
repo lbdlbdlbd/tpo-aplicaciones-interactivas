@@ -10,7 +10,7 @@ function Searchbar() {
 
     const submitHandler = (e) => {
         e.prevent.Default();
-        navigate("/searched/"+input);
+        navigate("/buscado/" + input);
     }
   return (
     <FormStyle onSubmit={submitHandler}>
