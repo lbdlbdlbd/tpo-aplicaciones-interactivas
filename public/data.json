@@ -12,7 +12,7 @@
             "id": 2,
             "title": "Sopa de tomate",
             "category": ["sopa","veggie","almuerzo","desayuno"],
-            "dificulty": 1.5,
+            "dificulty": 1,
             "instructions": "asd",
             "img" : "https://pinchofyum.com/wp-content/uploads/Bread-and-Tomato-Soup-3-1365x2048.jpg",
             "ingredients": ["tomate","caldo de vegetales","caldo de pollo", "ajo", "albahaca", "pan", "sal", "pimienta"]
@@ -21,7 +21,7 @@
             "id": 3,
             "title": "Torta de chocolate",
             "category": ["postre","veggie","popular"],
-            "dificulty": 3.5,
+            "dificulty": 3,
             "instructions": "asd",
             "img" : "https://pinchofyum.com/cdn-cgi/image/width=680,height=99999,fit=scale-down/wp-content/uploads/Turtle-Cake-1-2.jpg",
             "ingredients": ["harina 0000","azucar","cacao", "sal", "cafe", "manteca"]
@@ -30,7 +30,7 @@
             "id": 4,
             "title": "Hamburguesa picante de tofu",
             "category": ["almuerzo","veggie","cena","popular"],
-            "dificulty": 3,
+            "dificulty": 4,
             "instructions": "asd",
             "img": "https://pinchofyum.com/wp-content/uploads/Tofu-Burgers-1-2.jpg",
             "ingredients": ["harina 000","manteca","sal", "pimienta", "tofu", "aji","menta","albahaca","cilantro","chalote"]

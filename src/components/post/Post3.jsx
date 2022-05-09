@@ -1,6 +1,6 @@
 import "./post.css"
 import chocolateCake from './chocolateCake.jpg'
-import { ImStarFull,ImStarHalf,ImStarEmpty } from "react-icons/im";
+import { ImStarFull,ImStarEmpty } from "react-icons/im";
 import { Link } from 'react-router-dom';
 
 export default function Post3() {
@@ -19,7 +19,7 @@ export default function Post3() {
                 </div>
                 <hr/>
                     <span className="postDate">11/4/2022</span>
-                    <span className="postDificultyStars"><ImStarFull/><ImStarFull/><ImStarFull/><ImStarHalf/><ImStarEmpty/></span>
+                    <span className="postDificultyStars"><ImStarFull/><ImStarFull/><ImStarFull/><ImStarEmpty/><ImStarEmpty/></span>
             </div>
 
             <p className="postDesc">

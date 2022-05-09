@@ -10,7 +10,7 @@ function Buscar({data}) {
       animate={{opacity: 1}}
       exit= {{opacity: 0}}
     >
-      <HeaderSec />
+      <HeaderSec data = {data} />
       <Popular data = {data}/>
       <Veggie  data = {data}/>
     </motion.div>

@@ -6,7 +6,6 @@ import Home from "../pages/home/Home"
 import Single from "../pages/single/Single";
 import Write from "../pages/write/Write";
 import Buscar from "../pages/buscar/Buscar";
-import Buscado from "../pages/buscar/Buscado";
 import Recetas from "../pages/buscar/Recetas";
 import { Routes,Route, useLocation} from "react-router-dom";
 import { AnimatePresence } from 'framer-motion';
@@ -36,7 +35,7 @@ function AnimatedRoutes() {
             headers : { 
                 'Content-Type': 'application/json',
                 'Accept': 'application/json'
-            }
+                }
             }
             )
             .then(function(response){
@@ -55,7 +54,6 @@ function AnimatedRoutes() {
             <Routes location={location} key= {location.pathname}>
                 <Route path="/" element={<Home/>}/>
                 <Route path="/buscar" element={<Buscar data={data}/>}/>
-                <Route path="/buscado/:searched" element={<Buscado data={data}/>}/>
                 <Route path="/recetas/:name" element={<Recetas data={data}/>}/>
                 <Route path="/register" element={user ? <Home/> : <Register/>}></Route>
                 <Route path="/login" element={user ? <Home/> : <Login/>}></Route>

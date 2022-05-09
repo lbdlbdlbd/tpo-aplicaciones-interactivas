@@ -19,7 +19,7 @@ export default function Post4() {
                 </div>
                 <hr/>
                     <span className="postDate">3/4/2022</span>
-                    <span className="postDificultyStars"><ImStarFull/><ImStarFull/><ImStarFull/><ImStarEmpty/><ImStarEmpty/></span>
+                    <span className="postDificultyStars"><ImStarFull/><ImStarFull/><ImStarFull/><ImStarFull/><ImStarEmpty/></span>
             </div>
 
             <p className="postDesc">

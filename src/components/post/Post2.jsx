@@ -1,6 +1,6 @@
 import "./post.css"
 import tomatoSoup from './tomatoSoup.jpg'
-import { ImStarFull,ImStarHalf,ImStarEmpty } from "react-icons/im";
+import { ImStarFull,ImStarEmpty } from "react-icons/im";
 import { Link } from 'react-router-dom';
 
 export default function Post2() {
@@ -19,7 +19,7 @@ export default function Post2() {
                 </div>
                 <hr/>
                     <span className="postDate">22/4/2022</span>
-                    <span className="postDificulty"><ImStarFull/><ImStarHalf/><ImStarEmpty/><ImStarEmpty/><ImStarEmpty/></span>
+                    <span className="postDificulty"><ImStarFull/><ImStarEmpty/><ImStarEmpty/><ImStarEmpty/><ImStarEmpty/></span>
             </div>
 
             <p className="postDesc">

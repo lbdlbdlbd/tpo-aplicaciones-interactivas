@@ -6,7 +6,7 @@ import { motion } from "framer-motion"
 function Buscado({data}) {
     let { searched } = useParams();
     const filteredCategory = data.filter((item) =>
-      item.category.toLowerCase().includes(searched)
+      item.category.toLowerCase().includes(searched.toLowerCase())
     );
 
   return (
